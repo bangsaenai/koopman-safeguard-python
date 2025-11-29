@@ -29,9 +29,8 @@ If you use this code in your research, please cite our upcoming work:
 
 T. Wonghong, "Taming Extreme Nonlinearity: A Koopman-Based Safeguard for Unstable Dynamical Systems," Draft submitted to Automatica, 2025.
 
-## 🎥 Video Tutorial & Explanation
+## 🎥 Video 
 Want to see the "Kill Shot" simulation in action?
-We explain the math, the code, and the results in this deep-dive video:
 
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([[https://www.youtube.com/watch?v=v=MO598pfmMqk](https://www.youtube.com/watch?v=MO598pfmMqk)]
 > **"Science should move at the speed of light, not the speed of peer review."**
