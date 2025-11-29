@@ -33,7 +33,6 @@ T. Wonghong, "Taming Extreme Nonlinearity: A Koopman-Based Safeguard for Unstabl
 Want to see the "Kill Shot" simulation in action?
 We explain the math, the code, and the results in this deep-dive video:
 
-[![Watch the video]]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=MO598pfmMqk))
-
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=MO598pfmMqk))
 > **"Science should move at the speed of light, not the speed of peer review."**
 
