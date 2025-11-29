@@ -6,3 +6,5 @@ Open-source implementation of the Koopman-Safeguard framework. Taming extreme no
 🔴 Standard Linear: Fails to detect instability $\rightarrow$ System Crashes.
 🟢 Koopman (Ours): Captures global topology $\rightarrow$ System Stabilizes.
 
+![image](https://github.com/bangsaenai/koopman-safeguard-python/issues/1)
+
