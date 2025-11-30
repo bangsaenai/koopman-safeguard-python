@@ -3,12 +3,15 @@ Open-source implementation of the Koopman-Safeguard framework. "Taming extreme n
 
 🎯 The Mission: Democratizing Control Theory & Advanced control theory has long been locked behind expensive proprietary software and complex academic jargon. We believe safety-critical technology should be accessible to everyone.
 
-This project proves that free, open-source Python code can match the precision of industry-standard tools (MATLAB) in solving complex control problems.🧪 The "Kill Shot" EvidenceWe compare the Koopman-Safeguard against standard Linearization.
+This project proves that free, open-source Python code can match the precision of industry-standard tools (MATLAB) in solving complex control problems.
+
+🧪 The "Kill Shot" Evidence
+
+We compare the Koopman-Safeguard against standard Linearization.
 
 🔴 Standard Linear: Fails to detect instability $\rightarrow$ System Crashes.
 🟢 Koopman (Ours): Captures global topology $\rightarrow$ System Stabilizes.
 
-[![Watch The Result Here](https://img.youtube.com/vi/MO598pfmMqk/maxresdefault.jpg)](https://www.youtube.com/watch?v=MO598pfmMqk)
 
 🚀 FeaturesPhysics Simulation: A nonlinear WIG craft model exhibiting pitch instability.Koopman Lifting: Data-driven discovery of linear embeddings (EDMD).Safeguard Logic: The core $Ax=b$ solver for safety verification.Python vs. MATLAB: Side-by-side scripts proving 100% identical results.
 
@@ -34,7 +37,7 @@ T. Wonghong, "Taming Extreme Nonlinearity: A Koopman-Based Safeguard for Unstabl
 ## 🎥 Video 
 Want to see the "Kill Shot" simulation in action?
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([[https://www.youtube.com/watch?v=v=MO598pfmMqk](https://www.youtube.com/watch?v=MO598pfmMqk)]
+[![Watch The Matlab vs. Python here first](https://img.youtube.com/vi/MO598pfmMqk/maxresdefault.jpg)](https://www.youtube.com/watch?v=MO598pfmMqk)
 > **"Science should move at the speed of light, not the speed of peer review."**
 
 ---
