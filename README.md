@@ -35,3 +35,39 @@ Want to see the "Kill Shot" simulation in action?
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([[https://www.youtube.com/watch?v=v=MO598pfmMqk](https://www.youtube.com/watch?v=MO598pfmMqk)]
 > **"Science should move at the speed of light, not the speed of peer review."**
 
+---
+
+## 🛑 Addressing the Skeptics: "It's just a P-Controller?"
+
+We saw the discussions on Reddit. Some engineers pointed out:
+> *"This isn't magic. It looks like a simple P-controller applied to the y^3 model."*
+
+**You are absolutely right.** And that is exactly the breakthrough.
+
+The power of the **Koopman Operator** is not in creating a complex controller. It is in finding the right **Coordinate Transformation (Lifting)**.
+* We lift the nonlinear state $y \rightarrow \Psi(y) = [y, y^3]$.
+* In this lifted space, the chaotic dynamics become linear ($z_{k+1} = Kz$).
+* Once linear, even a "simple" controller becomes a weapon of mass stabilization.
+
+**Complexity is not the goal. Solution is the goal.**
+We proved that 50 lines of Python can outperform deep neural networks in stabilizing this system. Simplicity is the ultimate sophistication.
+
+---
+
+## 🌪️ Coming Soon: Level 2 - The Stochastic Storm
+
+Level 1 was a deterministic toy model. It was designed to be solved.
+But the real world is **noisy**.
+
+We are preparing **"The Bangsaen Benchmark Level 2"**:
+* 🌊 **Process Noise:** Random turbulence added to the physics.
+* 📡 **Measurement Noise:** Your sensors will lie to you.
+* ⏳ **Input Delay:** Real-world lag.
+
+**The Question:**
+Will your standard PID or LQR survive when the world fights back?
+Or will you need a **Robust Koopman** estimator?
+
+**Status:** *Code dropping soon. Stay tuned.*
+
+---
