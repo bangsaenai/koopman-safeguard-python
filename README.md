@@ -6,7 +6,7 @@ Open-source implementation of the Koopman-Safeguard framework. Taming extreme no
 🔴 Standard Linear: Fails to detect instability $\rightarrow$ System Crashes.
 🟢 Koopman (Ours): Captures global topology $\rightarrow$ System Stabilizes.
 
-![image](https://github.com/bangsaenai/koopman-safeguard-python/issues/1) 
+[![Watch The Result Here](https://img.youtube.com/vi/MO598pfmMqk/maxresdefault.jpg)](https://www.youtube.com/watch?v=MO598pfmMqk)
 
 🚀 FeaturesPhysics Simulation: A nonlinear WIG craft model exhibiting pitch instability.Koopman Lifting: Data-driven discovery of linear embeddings (EDMD).Safeguard Logic: The core $Ax=b$ solver for safety verification.Python vs. MATLAB: Side-by-side scripts proving 100% identical results.
 
