@@ -51,7 +51,7 @@ In this video, I reveal the mathematical secret ($Ax=b$) that bridges the gap be
 
 **Watch this before you run the code. You need to understand the WHY before the HOW.**
 
-[![Watch The Moondust Manifesto](https://img.youtube.com/vi/MO598pfmMqk/maxresdefault.jpg)](https://www.youtube.com/watch?v=MO598pfmMqk)
+[![Watch The Moondust Manifesto](https://img.youtube.com/vi/6rAqKiPowog/maxresdefault.jpg)](https://www.youtube.com/watch?v=6rAqKiPowog)
 *(Click the image to watch the full revelation)*
 
 ## 🛑 Addressing the Skeptics: "It's just a P-Controller?"
