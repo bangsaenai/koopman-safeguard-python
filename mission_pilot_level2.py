@@ -17,17 +17,22 @@ from wig_glider_level2 import WIGGliderLevel2
 # ==========================================
 def my_controller(y_measured, target):
     """
-    Input: 
-      - y_measured: The sensor reading (Noisy!)
-      - target: The desired altitude (1.0)
+    🎮 MISSION BRIEFING:
     
-    Output:
-      - u: Control action (Flap angle)
-      
-    Challenge:
-      - System has DELAY (Lag).
-      - System has NOISE.
-      - Standard PID will likely oscillate or crash.
+    You are flying blind in a storm.
+    - The sensor 'y_measured' is noisy.
+    - The controls behave with a 3-step lag.
+    
+    Your P-Controller (below) is failing.
+    It overreacts to noise and creates a feedback loop of instability.
+    
+    OBJECTIVE:
+    Write a controller that:
+    1. Filters out the noise (Don't believe everything the sensor says).
+    2. Predicts the future (To handle the delay).
+    3. Stabilizes the craft at Altitude = 1.0.
+    
+    Good luck. You will need it.
     """
     
     # --- DEFAULT: A Naive P-Controller (THIS WILL FAIL) ---
