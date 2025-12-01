@@ -106,6 +106,48 @@ The math is so efficient that it doesn't need a server. It doesn't even need a m
 **If a cardboard computer can fly a plane using this math... what is your excuse?**
 
 ---
+## 🐜 The Ant-Man Test: \$10 Raspberry Pi Zero (Single Core)
+
+We heard the skepticism. So we went lower.
+We dug out a **Google AIY Voice Kit** (which contains a **Raspberry Pi Zero WH**).
+
+* **CPU:** 1 GHz Single-core ARMv6 (Ancient architecture)
+* **RAM:** 512 MB
+* **OS:** Raspberry Pi OS Legacy (32-bit)
+* **Connection:** Headless via SSH over WiFi (No keyboard, no mouse)
+
+### 📸 The Setup (Raw Footage)
+This is what "Edge AI" actually looks like. A cardboard box on a messy desk. No GPU clusters here.
+
+![Ant-Man Setup](antman.jpg)
+
+### 🖥️ The Result (Screenshot)
+We ran the exact same Python script via SSH.
+Since there is no display, the Pi acted as a web server to deliver the result instantly.
+
+![Ant-Man Terminal Proof](antman_monitor.png)
+
+**Verdict:**
+- **Stability:** 100% Stable.
+- **Latency:** Zero Lag.
+- **Cost:** Less than a lunch.
+
+---
+
+### 🔮 What's Next? The Final Boss (Microcontroller)
+
+We have conquered PC, Jetson Nano, Pi 3, and Pi Zero.
+But some of you might say: *"It's still Linux. It still runs Python."*
+
+**Challenge Accepted.**
+
+Next stop: **ESP32 (Node32 Lite)**.
+No OS. No Python interpreter overhead. Just bare-metal math.
+If we pull this off... the debate is over.
+
+**Sleep well, Reddit.** 🌙
+
+---
 
 ## 🌪️ Coming Soon: Level 2 - The Stochastic Storm
 
