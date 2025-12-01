@@ -2,20 +2,23 @@ import numpy as np
 
 class WIGGliderLevel2:
     """
-    🌪️ The 'Bangsaen Control Benchmark - Level 2' (Stochastic Storm)
+    🌪️ LEVEL 2 PHYSICS ENGINE: "The Stochastic Storm"
     
-    Challenger Note:
-    This environment simulates a WIG Craft flying in turbulent wind with laggy controls.
+    This simulation introduces REAL-WORLD CHAOS.
+    In Level 1, the world was perfect. In Level 2, the world fights back.
     
-    Dynamics:
-    x(k+1) = 1.5*x(k) - 0.5*x(k)^3 + u(k-tau) + w(k)
+    The Equation of Chaos:
+    x(k+1) = 1.5*x(k) - 0.5*x(k)^3 + u(k-3) + w(k)
     y(k)   = x(k) + v(k)
     
-    Where:
-    - w(k): Process Noise (Wind Gusts)
-    - v(k): Measurement Noise (Sensor Jitter)
-    - tau : Input Delay (Lag)
+    The 3 Enemies of Control:
+    1. Process Noise (w): Wind gusts that push the craft randomly.
+    2. Measurement Noise (v): Your sensors lie. You never know the true altitude.
+    3. Input Delay (tau=3): You command the flaps, but they react 3 steps later.
+    
+    Warning: Standard PID derivatives will amplify noise. High gains will cause oscillation due to lag.
     """
+    
     def __init__(self):
         self.state = 0.1 # Initial state (Near unstable equilibrium)
         self.target = 1.0 # Safe altitude
