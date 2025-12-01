@@ -70,6 +70,22 @@ The power of the **Koopman Operator** is not in creating a complex controller. I
 We proved that 50 lines of Python can outperform deep neural networks in stabilizing this system. Simplicity is the ultimate sophistication.
 
 ---
+## ⚡ The Ultimate Proof: Running on Metal ($99 Jetson Nano)
+
+Critics argued that this is "just a simulation". They doubted if it could run in the real world.
+**Here is the answer.**
+
+We deployed the exact same Python script (`kill_shot_demo.py`) onto an old **NVIDIA Jetson Nano (4GB)**.
+* **No GPU Acceleration.**
+* **No C++ Compilation.**
+* **Just pure Python Math ($Ax=b$).**
+
+[![Watch the Jetson Nano Test](https://img.youtube.com/vi/OY3n2kQ7RvA/maxresdefault.jpg)](https://www.youtube.com/watch?v=OY3n2kQ7RvA)
+
+**The Result:** Real-time stabilization with minimal CPU load. Proof that smart math beats expensive hardware.
+
+---
+
 
 ## 🌪️ Coming Soon: Level 2 - The Stochastic Storm
 
