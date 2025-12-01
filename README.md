@@ -174,20 +174,20 @@ See you at the **ESP32 Benchmark**.
 
 ---
 
-## 🌪️ Coming Soon: Level 2 - The Stochastic Storm
+## 🌪️ Level 2: The Stochastic Storm (NEW!)
 
-Level 1 was a deterministic toy model. It was designed to be solved.
-But the real world is **noisy**.
+Level 1 proved the math. Level 2 tests your survival instincts.
+We have updated the simulation to match reality:
 
-We are preparing **"The Bangsaen Benchmark Level 2"**:
-* 🌊 **Process Noise:** Random turbulence added to the physics.
-* 📡 **Measurement Noise:** Your sensors will lie to you.
-* ⏳ **Input Delay:** Real-world lag.
+| Challenge | Description | Why it kills PID |
+| :--- | :--- | :--- |
+| **Wind Gusts** | Random forces pushing the craft | Constant disturbance |
+| **Sensor Noise** | The altimeter is jittery | D-term amplifies noise 10x |
+| **Input Delay** | 3-step lag in controls | Causes deadly oscillation |
 
-**The Question:**
-Will your standard PID or LQR survive when the world fights back?
-Or will you need a **Robust Koopman** estimator?
+**The Goal:**
+The "Simple P-Controller" that worked in Level 1... **will crash here.**
+You need a controller that can *filter* noise and *predict* through delay.
 
-**Status:** *Code dropping soon. Stay tuned.*
-
----
+**👉 [Click here to try Level 2](mission_pilot_level2.py)**
+*(Warning: Difficulty Spike Ahead)*
