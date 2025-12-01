@@ -86,6 +86,26 @@ We deployed the exact same Python script (`kill_shot_demo.py`) onto an old **NVI
 
 ---
 
+## 📦 Reality Check: Running on "E-Waste" (Raspberry Pi 3)
+
+Critics argued that real-time control requires expensive industrial hardware or high-end GPUs.
+**We disagree.**
+
+To prove the efficiency of the **Koopman-Safeguard ($Ax=b$)**, we deployed the code onto a piece of hardware that many consider "obsolete."
+
+![Raspberry Pi 3 Koopman Proof](proof_pi3.jpg)
+*(Figure: The Koopman-Safeguard running in real-time on a Raspberry Pi 3 Model B inside a DIY cardboard box.)*
+
+**The Setup:**
+* **Hardware:** Raspberry Pi 3 Model B (Released 2016)
+* **RAM:** 1GB (Shared)
+* **Enclosure:** A Cardboard Box.
+* **Result:** **Perfect Stabilization.**
+
+The math is so efficient that it doesn't need a server. It doesn't even need a metal case.
+**If a cardboard computer can fly a plane using this math... what is your excuse?**
+
+---
 
 ## 🌪️ Coming Soon: Level 2 - The Stochastic Storm
 
