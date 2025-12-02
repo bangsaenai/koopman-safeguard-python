@@ -212,3 +212,26 @@ If you can beat my Pi Zero using your expensive workstation... post your results
 **If you can't... then admit that Linear Algebra won, and ask nicely.**
 
 *Solution unlocks when the community proves they are ready.*
+
+---
+
+### 🐜 Status Update: Ant-Man Cleared Level 2!
+
+While you are tuning your PID controllers... **Ant-Man (Raspberry Pi Zero)** just survived the storm.
+
+We deployed the **Robust Koopman Solution** onto the \$10 board.
+* **Input Delay:** 3 steps (Handled)
+* **Sensor Noise:** Filtered.
+* **Wind Gusts:** Stabilized.
+* **CPU Load:** Minimal.
+
+![Level 2 Solution on Pi Zero](level2_solution.png)
+*(Figure: Real-time stabilization of Level 2 Stochastic Storm on Raspberry Pi Zero. Green line = Koopman Control. Red dots = What the sensor sees.)*
+
+**The solution exists.** And it runs on a single-core CPU from 2015.
+If you are struggling with a modern workstation... maybe it's not the hardware. It's the math.
+
+**Can you beat this graph?**
+Submit your results in the Issues tab.
+
+---
