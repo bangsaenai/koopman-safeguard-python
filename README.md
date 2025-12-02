@@ -239,6 +239,23 @@ Then at 12:00 PM Bangkok time, **you will know who the Father is.**
 Tick tock.
 ---
 
+### 📂 Evidence: The Flight Log
+Don't believe it runs on a $10 chip?
+Check **[`proof_of_victory_pi_zero.csv`](./proof_of_victory_pi_zero.csv)**.
+This allows you to verify the stability margins yourself before the code drops.
+
+📂 Evidence Drop: proof_of_victory_pi_zero.csv
+
+I am not posting the graph screenshot yet. I want you to see it with your own eyes.
+
+Download the CSV.
+
+Plot True_Altitude vs Step.
+
+Look at the stability.
+
+The data speaks for itself. If your controller cannot match this data... keep working. The clock is ticking. ⏳
+
 ### 🐜 Status Update: Ant-Man Cleared Level 2!
 
 While you are tuning your PID controllers... **Ant-Man (Raspberry Pi Zero)** just survived the storm.
