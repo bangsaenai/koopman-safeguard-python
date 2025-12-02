@@ -196,6 +196,18 @@ See you at the **ESP32 Benchmark**.
 *Coming soon.*
 
 ---
+## 👾 Level 5 Teaser: The Thanos Protocol
+
+You thought Ant-Man was the limit? You were wrong.
+We are preparing to go **Bare Metal**.
+
+**Target:** ESP32 ($5)
+**Goal:** Swarm Intelligence. Zero OS. Infinite Scale.
+
+👉 **[Read the Prophecy: How Thanos Will Change Engineering](THE_THANOS_PROTOCOL.md)**
+
+*"I am inevitable."*
+---
 
 ## 🌪️ Level 2: The Stochastic Storm (NEW!)
 
