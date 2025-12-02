@@ -26,7 +26,13 @@ We compare the Koopman-Safeguard against standard Linearization.
 🟢 Koopman (Ours): Captures global topology $\rightarrow$ System Stabilizes.
 
 
-🚀 FeaturesPhysics Simulation: A nonlinear WIG craft model exhibiting pitch instability.Koopman Lifting: Data-driven discovery of linear embeddings (EDMD).Safeguard Logic: The core $Ax=b$ solver for safety verification.Python vs. MATLAB: Side-by-side scripts proving 100% identical results.
+🚀 FeaturesPhysics Simulation: A nonlinear WIG craft model exhibiting pitch instability.
+
+Koopman Lifting: Data-driven discovery of linear embeddings (EDMD).
+
+Safeguard Logic: The core $Ax=b$ solver for safety verification.
+
+Python vs. MATLAB: Side-by-side scripts proving 100% identical results.
 
 git clone https://github.com/bangsaenai/koopman-safeguard-python.git
 
