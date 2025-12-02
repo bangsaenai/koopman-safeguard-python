@@ -1,6 +1,19 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 
+# ⏳ DOOMSDAY CLOCK: ACTIVE
+
+The automated release is scheduled. The system is locked.
+
+### 📅 DEADLINE: Friday, Dec 5th @ 12:00 PM (Bangkok Time)
+
+> **[🔴 CLICK HERE TO WATCH THE LIVE COUNTDOWN](https://www.timeanddate.com/countdown/generic?iso=20251205T12&p0=28&msg=The+Ant-Man+Protocol+Reveal&font=slab)**
+
+If the solution is not posted by the community before this clock hits zero...
+**The file `kill_shot_level2_solution.py` will be released automatically.**
+
+*Tick tock.*
+
 🎯 The Mission: Democratizing Control Theory & Advanced control theory has long been locked behind expensive proprietary software and complex academic jargon. We believe safety-critical technology should be accessible to everyone.
 
 This project proves that free, open-source Python code can match the precision of industry-standard tools (MATLAB) in solving complex control problems.
