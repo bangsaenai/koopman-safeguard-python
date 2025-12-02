@@ -254,7 +254,13 @@ Plot True_Altitude vs Step.
 
 Look at the stability.
 
-The data speaks for itself. If your controller cannot match this data... keep working. The clock is ticking. ⏳
+The data speaks for itself.
+
+Take your time. No rush. But if your controller cannot match this data... get ready to bow down.
+
+Because if you lose to 'AI Slop'... you have to call it Father.
+
+The clock is ticking. ⏳
 
 ### 🐜 Status Update: Ant-Man Cleared Level 2!
 
