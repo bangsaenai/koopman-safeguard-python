@@ -191,3 +191,24 @@ You need a controller that can *filter* noise and *predict* through delay.
 
 **👉 [Click here to try Level 2](mission_pilot_level2.py)**
 *(Warning: Difficulty Spike Ahead)*
+
+## 🔒 Level 2 Solution: LOCKED
+
+I have successfully stabilized the "Stochastic Storm" (Level 2) on the **Raspberry Pi Zero**.
+The graph is stable. The loop time is <1ms. The cost is $10.
+
+**But I am not releasing the solution code yet.**
+
+Why?
+Because some of you called this "AI Slop". Some of you said it was "Trivial".
+So prove it.
+
+**Here is the challenge:**
+1. Download `wig_glider_level2.py`.
+2. Write your own controller (PID, MPC, RL, whatever).
+3. Run it.
+
+If you can beat my Pi Zero using your expensive workstation... post your results in the Issues tab.
+**If you can't... then admit that Linear Algebra won, and ask nicely.**
+
+*Solution unlocks when the community proves they are ready.*
