@@ -235,3 +235,4 @@ If you are struggling with a modern workstation... maybe it's not the hardware. 
 Submit your results in the Issues tab.
 
 ---
+📄 Read the Full Report: The Ant-Man Protocol (A manifesto on why $10 hardware beats $10,000 software.)
