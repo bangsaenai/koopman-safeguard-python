@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# --- SECRET SOLUTIONS (DO NOT UPLOAD) ---
+kill_shot_level2_solution.py
 # C extensions
 *.so
 
