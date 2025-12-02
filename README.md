@@ -132,6 +132,10 @@ Since there is no display, the Pi acted as a web server to deliver the result in
 - **Latency:** Zero Lag.
 - **Cost:** Less than a lunch.
 
+### 📄 Deep Dive: The Full Story
+Want to read the full research manifesto?
+👉 **[Read the Full Report: The Ant-Man Protocol](THE_ANTMAN_PROTOCOL.md)**
+*(A manifesto on why $10 hardware beats $10,000 software.)*
 ---
 
 ### 🔮 What's Next? The Final Boss (Microcontroller)
@@ -235,4 +239,3 @@ If you are struggling with a modern workstation... maybe it's not the hardware. 
 Submit your results in the Issues tab.
 
 ---
-📄 Read the Full Report: The Ant-Man Protocol (A manifesto on why $10 hardware beats $10,000 software.)
