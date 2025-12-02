@@ -219,6 +219,26 @@ If you can beat my Pi Zero using your expensive workstation... post your results
 
 ---
 
+### ⏳ THE FINAL COUNTDOWN: Judgment Day
+
+The deadline is set. The script is automated.
+The solution (`kill_shot_level2_solution.py`) will be pushed to this repository on:
+
+**🗓️ Friday, December 5th at 05:00 UTC**
+*(That is 12:00 PM in Bangkok, Thailand)*
+
+**Why this specific time?**
+In my country (Thailand), **December 5th is Father's Day.**
+It is a day of supreme respect. It is a day to honor the one who provides, protects, and teaches.
+
+If you can solve **Level 2** before this time... you earn my respect as a peer.
+**But if you cannot...** and you have to wait for my code to save you...
+
+Then at 12:00 PM Bangkok time, **you will know who the Father is.**
+
+Tick tock.
+---
+
 ### 🐜 Status Update: Ant-Man Cleared Level 2!
 
 While you are tuning your PID controllers... **Ant-Man (Raspberry Pi Zero)** just survived the storm.
