@@ -16,10 +16,9 @@ The first domino has fallen. One engineer has accepted the truth. You can ignore
   <br>
   <br>
 </div>
-![The Endgame](the_end_game_th.jpg)
+
 
 <div align="center">
-
 
 # THE ENDGAME HAS BEGUN.
 
