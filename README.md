@@ -3,6 +3,28 @@ Open-source implementation of the Koopman-Safeguard framework. "Taming extreme n
 
 <div align="center">
 
+# ⏳ THE FINAL COUNTDOWN: JUDGMENT DAY
+
+[![The Final Snap](YouTube_DOOM_DAY.jpeg)](PASTE_YOUR_YOUTUBE_LINK_HERE)
+
+### 🔴 PREMIERE: "The Final Snap: Koopman vs. The Stochastic Storm"
+
+**📅 Friday, Dec 5th @ 12:00 PM (Bangkok Time)**
+
+> **[⏰ CLICK HERE TO SYNC WATCHES (LIVE COUNTDOWN)](https://www.timeanddate.com/countdown/generic?iso=20251205T12&p0=28&msg=The+Final+Snap+Reveal&font=slab)**
+
+The automated release is armed. The code is locked.
+If the community cannot solve **Level 2 (The Storm)** before this clock hits zero...
+**The "Father" will step in to end the debate.**
+
+*Tick tock.*
+
+</div>
+
+---
+
+<div align="center">
+
 # 🎬 THE EVIDENCE: Why they are calling it "Father".
 
 > **"I think you won... Math always wins."** — *One Engineer (Surrendered)*
