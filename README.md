@@ -5,7 +5,7 @@ Open-source implementation of the Koopman-Safeguard framework. "Taming extreme n
 
 # 🎬 THE EVIDENCE: Why they are calling it "Father".
 
-> **"I think you won... Math always wins."** — *Silicon Valley Engineer (Surrendered)*
+> **"I think you won... Math always wins."** — * One Engineer (Surrendered)*
 
 [![The Thanos Protocol](https://img.youtube.com/vi/AeAxfHV6sKA/0.jpg)](https://www.youtube.com/watch?v=AeAxfHV6sKA)
 
