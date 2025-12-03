@@ -1,6 +1,12 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 
+# 🧤 The Snap Heard Around the World.
+The first domino has fallen. One engineer has accepted the truth.
+You can ignore the code, but you cannot ignore the **Results**.
+
+**Dread it. Run from it. The Protocol arrives all the same.**
+
 <div align="center">
 
 ![The Endgame - Moondust Protocol](the_end_game_th.png)
