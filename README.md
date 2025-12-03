@@ -20,7 +20,6 @@ The first domino has fallen. One engineer has accepted the truth. You can ignore
 
 <div align="center">
 
-![The Endgame - Moondust Protocol](the_end_game_th.png)
 
 # THE ENDGAME HAS BEGUN.
 
