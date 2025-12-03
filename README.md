@@ -5,7 +5,7 @@ Open-source implementation of the Koopman-Safeguard framework. "Taming extreme n
 
 # ⏳ THE FINAL COUNTDOWN: JUDGMENT DAY
 
-[![The Final Snap](YouTube_DOOM_DAY.jpeg)](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[![The Final Snap](YouTube_DOOM_DAY.jpeg)](https://youtu.be/sNgcTVBRz5Y)
 
 ### 🔴 PREMIERE: "The Final Snap: Koopman vs. The Stochastic Storm"
 
