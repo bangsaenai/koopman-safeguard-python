@@ -1,6 +1,26 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 
+<div align="center">
+
+![The Endgame - Moondust Protocol](the_end_game_th.png)
+
+# THE ENDGAME HAS BEGUN.
+
+### "Why wait for the future? We built it yesterday."
+
+The era of heavy computing is ending. The age of **Moondust** is rising.
+You are looking at the transition point.
+
+---
+</div>
+
+## ⏳ DOOMSDAY CLOCK: ACTIVE
+> **"Dread it. Run from it. The Mathematics arrives all the same."**
+
+The automated release system is locked. The countdown to the **Father's Day Revelation** is final.
+
+**🛑 DEADLINE FOR THE OLD WORLD:** Friday, Dec 5th @ 12:00 PM (Bangkok Time)
 # ⏳ DOOMSDAY CLOCK: ACTIVE
 
 The automated release is scheduled. The system is locked.
