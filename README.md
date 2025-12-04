@@ -1,6 +1,38 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# ⏳ URGENT: 2-Hour Warning to the Reddit Critic
+
+> **Target:** The user who claimed "0% Chance" & "Failing Grade".
+> **Current Status:** The chair is empty.
+> **Time Remaining:** **2 Hours** (Deadline: 00:00 Midnight Bangkok Time).
+
+### 🛑 Responsibility Check
+
+You wrote the comment. You insulted the work. You gathered the upvotes.
+Now, take responsibility for your words.
+
+If you are one of the **213 engineers** currently hiding in the clone logs... **Step forward.**
+
+I am giving you **2 Hours** to show yourself in the Issues tab.
+* Not to apologize.
+* Not to fight.
+* But to accept the challenge like a professional.
+
+### ⚔️ The Terms
+1.  Identify yourself (Claim your Reddit comment).
+2.  Commit to running the code when it unlocks at 12:00 PM (Friday).
+3.  If it works: You publicly retract your "0% chance" statement.
+4.  If it fails: I publicly admit you were right.
+
+### ⚠️ If you do not show up by Midnight...
+The community will know that **r/ControlTheory** critics are brave only in the shadows, but cowards in the light.
+
+**The clock is ticking. 2 Hours.**
+**Tick tock.**
+
+---
+
 # 🔥 THE FINAL SUMMONS: To the r/ControlTheory Critic
 
 > **Target:** The Reddit user who claimed this project has a "0% Chance" of success.
