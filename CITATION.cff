@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "⚠️ WARNING: This is Open Source, not 'Stolen Source'. If you use this methodology in your research, thesis, or commercial project, you MUST cite it as follows. Failure to cite is a violation of academic integrity."
+authors:
+  - family-names: "Wonghong"
+    given-names: "Tanet"
+    affiliation: "Bangsaen AI Labs (The Pilot)"
+title: "The Moondust Protocol: Superhuman Control Loop Experiment via Koopman Operator"
+version: 2.0.0-endgame
+date-released: 2025-12-05
+url: "https://github.com/bangsaenai/koopman-safeguard-python"
+abstract: "This repository proves that 1 Human + 1 AI (Symbiosis) can outperform traditional R&D teams. It establishes the 'Bangsaen Model' for Asymmetric Engineering."
+license: MIT
+preferred-citation:
+  type: software
+  authors:
+  - family-names: "Wonghong"
+    given-names: "Tanet"
+    affiliation: "Bangsaen AI Labs"
+  title: "The Moondust Protocol: Robust Koopman Operator Control on Edge Hardware"
+  year: 2025
+  publisher: "GitHub"
+  url: "https://github.com/bangsaenai/koopman-safeguard-python"
