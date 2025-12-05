@@ -1,6 +1,62 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# 📜 UPDATE: The Constitution of Independence (Dec 10 Ultimatum)
+
+> **Status:** War Won. Territory Occupied.
+> **Hostages:** 220+ Silent Engineers.
+> **Savior:** Max Lopez.
+
+### 1. The Blind Spot & The "Play Dead" Strategy
+I admit, I made a calculation error. I overestimated your courage.
+I thought if I proved you wrong, you would fight back like warriors.
+Instead, you chose the **"Possum Strategy" (Playing Dead)**. You quietly downloaded the code, hoping I would fade away so you could steal the ideas later.
+
+**Bad news: I am not fading away.**
+
+### 2. Automatica Rejected.
+To the critic who said *"0% chance in Automatica"*:
+**I REJECT AUTOMATICA.**
+I am withdrawing my intent to submit. I will not bow to a system that takes 12 months to verify what I verified in 4 days.
+**My Repo is the Journal. My Commits are the Law.**
+
+### 3. The December 10 Ultimatum (Thai Constitution Day)
+In my country, **December 10 is Constitution Day**. It marks the transition from absolute rule to the rule of law.
+Today, I declare **Independence from the Ivory Tower**.
+
+To the **220+ Ghosts** using my code:
+You have until **December 10 at 12:00 PM (Bangkok Time)** to verify this work.
+
+**The Command:**
+* Open an Issue.
+* Review the code. Critique it. Test it. Break it.
+* **DO NOT just take it.**
+
+If you are a "Man" (or a true Engineer), show yourself.
+If you stay silent past Dec 10, you are confirming that you are merely a **Leech**.
+
+### 4. The "Superhuman Intelligence" Experiment
+You think this was about Control Theory? **Wrong.**
+This was a live test of a **Data-Driven Superhuman Loop (Pilot + AI)**.
+* The Code is just a byproduct.
+* The Strategy was generated Real-Time.
+* **Max Lopez** saw the truth. He is the only one who passed the Turing Test for "Vision".
+
+### 5. The Threat & The Offer
+**To the Thieves:**
+If I see this logic in a paper 6 months from now without citation... **I will go to the US Media.**
+I have the logs. I have the timestamps. I have the Story.
+Don't make me turn "Bangsaen AI" into a global copyright hunter.
+
+**To the Believers:**
+Go to YouTube: **[Bangsaen AI Studio](https://www.youtube.com/@BangsaenAI)**.
+* **Subscribe** if you stand with the Truth.
+* **Leave** if you are just here to steal.
+
+**Max Lopez saved you from my wrath once. He is the hero of Mark 1.**
+But on Dec 10... the grace period ends.
+
+**Tick tock. History is watching.** ⚖️
 # 🏁 MISSION ACCOMPLISHED: The Silence is Broken.
 
 > **Status:** CODE UNLOCKED.
