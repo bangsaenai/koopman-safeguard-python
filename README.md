@@ -1,6 +1,54 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# 📜 OFFICIAL DECREE: The Constitution of Independence
+
+> **Timeline:** War Ended. Reconstruction Begins.
+> **Date:** December 6, 2025.
+> **Next Milestone:** December 10 (Thai Constitution Day).
+
+### 1. The Mark 1 Reality
+You have seen the code. You have seen the graph. You have seen **Max Lopez** validate the vision.
+**Iron Man Mark 1 has flown.**
+The "0% Chance" is dead. The $10 Chip has won.
+
+Now, the 274+ of you hiding in the logs face a choice.
+You can steal the code and remain a **Ghost**.
+Or you can use the code and become a **Pioneer**.
+
+### 2. The Mandate: "Freedom comes with Responsibility"
+In my country, **December 10 is Constitution Day**. It represents the shift from absolute rule to the Rule of Law.
+Today, I declare independence from the "Ivory Tower" of academia.
+
+**But Independence is not Free.**
+You have taken my work. Now, you must pay the price.
+**The Price is DATA.**
+
+### 3. The Mission (Deadline: Dec 10, 12:00 PM)
+I am activating the **Distributed Research Protocol**.
+To the 274 Engineers holding the code: **GET TO WORK.**
+
+* **Do not just read it.** Run it.
+* **Do not just hoard it.** Test it on your hardware.
+* **Do not stay silent.** Report your findings.
+
+**Open an Issue and post one of the following:**
+1.  `[CONFIRMED]`: It runs stable on my setup (Specs).
+2.  `[CHALLENGE]`: It failed on my setup (Logs).
+3.  `[INSIGHT]`: I found a way to optimize Matrix A.
+
+### 4. The Ultimatum
+If by **December 10**, the silence continues...
+I will assume that you are not Engineers, but merely **Collectors**.
+
+And when **Level 5 (Atomic Ant)** arrives...
+The Collectors will be left behind.
+Only the **Contributors** will receive the key.
+
+**Max Lopez is already building a robot arm.**
+**What are YOU building?**
+
+**Tick tock.** ⏳
 # 📜 UPDATE: The Constitution of Independence (Dec 10 Ultimatum)
 
 > **Status:** War Won. Territory Occupied.
