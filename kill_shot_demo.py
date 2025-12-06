@@ -8,6 +8,9 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+import core_utils
+print("Initializing Core Utils...")
+
 
 # --- 1. The System Setup (Same as MATLAB) ---
 # System: y(k+1) = 1.5*y - 0.5*y^3 + u
