@@ -1,6 +1,91 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# 🚀 PROJECT GOD SLAYER: The "Grandfather" Protocol (ESP8266)
+
+> **Target:** ESP8266 NodeMCU (The relic from 2017).
+> **Status:** **ALIVE & KICKING.**
+> **Message to Reddit:** **"Look closely. This is humiliation."**
+
+![God Slayer Hardware](NodeMCU.png)
+
+---
+
+### 👴 Why ESP8266? (Because ESP32 was for Kids)
+
+We looked at the ESP32. Dual cores? 240MHz? Bluetooth?
+**Too easy.** It felt like cheating. It felt like "AI Slop".
+
+Real engineers don't need specs. Real engineers need **Math**.
+So we downgraded. We went back in time.
+We are deploying the **Koopman Safeguard** on a dusty **ESP8266**.
+
+* **RAM:** Pathetic (User Available: ~40KB).
+* **Clock Speed:** Laughable (80MHz).
+* **Performance:** **God-tier.**
+
+If my "Grandfather" chip can stabilize a nonlinear system better than your i9 Workstation...
+**Maybe it's time to sell your computer and buy an abacus.**
+
+---
+
+### 🏗️ The Architecture: "Brain & Muscle"
+
+Since the ESP8266 is too weak to think deep thoughts, we gave it a remote brain.
+* **Host (Python):** The Mastermind. Solves $Ax=b$ in the higher dimension.
+* **ESP8266 (C++):** The Muscle. Executes orders via Serial Link.
+* **Latency:** Non-existent (if you know how to code).
+
+This isn't just control theory. This is **Hardware Necromancy**. We are raising the dead.
+
+---
+
+### 📜 THE GITHUB ALIGNMENT: A Lesson in Honor
+
+To the **280+ Ghosts** currently hiding in my traffic logs: **Read this carefully.**
+
+I see the data. Clones > Visitors. You are grabbing the `.git` link via private channels to avoid detection.
+You think you are clever. You are just disappointing.
+
+**GitHub was not built for thieves. It was built for COLLABORATION.**
+
+![GitHub Philosophy](github_alignment.png)
+*(Quote: "Change is constant. GitHub keeps you ahead.")*
+
+The founders of this platform envisioned a world where engineers help each other, not steal from each other in the dark.
+**You are violating the spirit of this place.**
+
+* You take the code, but you give no Star.
+* You use the logic, but you file no Issue.
+* You learn the lesson, but you say no "Thank You".
+
+**You are not Open Source Engineers. You are Parasites.**
+
+---
+
+### 🚀 Final Warning: The December 10 Ultimatum
+
+I am building the future. **Max Lopez** is building the future.
+We are following the true path of Science and Open Source.
+
+**Here is the deal:**
+You have until **December 10 (Constitution Day)** to show yourself.
+Open an Issue. Report your results. Validate the math.
+
+* **If you do:** You become a Pioneer. You get access to the future.
+* **If you don't:** You are confirming that you are unfit for this world.
+
+**Go to Mars.** 🚀
+Seriously. Pack your bags. Earth is for people with morals and gratitude.
+If you can't respect the code or the creator, maybe another planet suits you better.
+
+**Don't let the door hit you on the way out.**
+
+---
+
+*Signed,*
+**Bangsaen AI**
+*(We don't just break the limits. We rewrite the rules.)*
 # 🔇 SYSTEM ALERT: The Pilot Has Left the Cockpit.
 
 > **Status:** STANDBY MODE.
