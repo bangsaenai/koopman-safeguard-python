@@ -54,6 +54,38 @@ The full documentation of this historic 96-hour experiment is now published belo
 
 👉 **[READ: The Godspeed Anomaly (Journal of Post-Modern Engineering)](THE_GODSPEED_ANOMALY.md)**
 
+
+---
+
+### 🎥 TOO LAZY TO READ? (The Audio-Visual Evidence)
+
+If the paper is too long for your attention span, I made a video summary.
+**Listen to it on loop.**
+In the toilet. On the train. While driving.
+*Let the truth sink in through your ears.*
+
+[![Science at Light Speed](https://img.youtube.com/vi/1JaKgZQIvzo/0.jpg)](https://www.youtube.com/watch?v=1JaKgZQIvzo)
+
+---
+
+### 🩸 FINAL MESSAGE TO REDDIT:
+
+Look at this video. Look at the code. Look at the paper.
+**I did ALL of this in 4 Days.**
+
+**Can you?**
+Can you derive the math, port it to embedded hardware, build a defense system, write a journal paper, **AND** produce a documentary... in 96 hours?
+
+* **Your Prediction:** "0% Chance."
+* **My Calculation:** Your capability is **Negative (< 0%)**.
+
+Let me be clear:
+If you came to **Thailand** to study under **THE FATHER**, you wouldn't even pass with a **"D"**.
+You would fail immediately.
+
+**Here, our standards for "Impossible" are much higher than yours.**
+
+*Class Dismissed.* 🔔
 ---
 # 👻 SYSTEM UPDATE: GitHub Lagged, But I Didn't.
 
