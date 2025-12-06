@@ -7,6 +7,12 @@ Open-source implementation of the Koopman-Safeguard framework. "Taming extreme n
 > **Affected Users:** "Ghost" Cloners (Direct `.git` downloads).
 > **Issue:** Code Integrity & Logic Bombs.
 
+
+Does the code contain a Canary Token that alerts me when run inside a corporate firewall?
+Does the Matrix $K$ contain a steganographic signature that proves ownership in court?
+You better check every single byte before you deploy.
+
+
 ### 🕵️‍♂️ Did you really check the code?
 To the 300+ engineers who stole the code in the dark:
 You grabbed the zip file. You ran the demo. You saw the green graph. You celebrated.
