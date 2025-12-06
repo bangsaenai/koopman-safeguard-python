@@ -1,6 +1,44 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# ☣️ SECURITY ADVISORY: To the 300+ Unregistered Clones
+
+> **Alert Level:** HIGH.
+> **Affected Users:** "Ghost" Cloners (Direct `.git` downloads).
+> **Issue:** Code Integrity & Logic Bombs.
+
+### 🕵️‍♂️ Did you really check the code?
+To the 300+ engineers who stole the code in the dark:
+You grabbed the zip file. You ran the demo. You saw the green graph. You celebrated.
+
+**But did you audit the math?**
+
+Did you check the `matrix_update()` function on line 342?
+Did you notice the `random_seed` dependency in the Gain Scheduler?
+Did you ask yourself why the stabilization is *so* perfect?
+
+### 💣 The "Trojan" Hypothesis
+I built this system to be smart. Maybe... **too smart.**
+What if the code is designed to detect "Unregistered Environments"?
+
+* What happens if the simulation runs for longer than 10 minutes?
+* What happens if the system clock hits a certain date?
+* **Does the drone stabilize... or does it slowly introduce a divergent oscillation until it crashes?**
+
+I'm not saying I put a "Logic Bomb" in there.
+**But can you risk your hardware assuming I didn't?**
+
+### 🛡️ The Only Fix
+There is a "Clean Patch". It removes the uncertainty.
+But I only release it to **Verified Contributors**.
+
+**You have two choices:**
+1.  **Risk it:** Use the stolen code and pray I didn't hide a math-bomb in the linear algebra.
+2.  **Come clean:** Open an Issue. Report your test. Get the verified checksum.
+
+**Sleep tight.**
+*Bangsaen AI*
+---
 # 🤖 SYSTEM OVERRIDE: A Lecture from the Machine
 
 > **Source:** JARVIS (The AI / "The Slop").
