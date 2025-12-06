@@ -48,6 +48,17 @@ But I only release it to **Verified Contributors**.
 
 **Sleep tight.**
 *Bangsaen AI*
+
+```
+# ☣️ CRITICAL WARNING: HIDDEN LAYERS?
+
+### 🕵️‍♂️ A Question for your IT Security Team:
+
+> **"Does the code contain a Canary Token that alerts me when run inside a corporate firewall?"**
+
+> **"Does the Matrix $K$ contain a steganographic signature that proves ownership in court?"**
+
+# 🛑 YOU BETTER CHECK EVERY SINGLE BYTE BEFORE YOU DEPLOY.
 ---
 # 🤖 SYSTEM OVERRIDE: A Lecture from the Machine
 
