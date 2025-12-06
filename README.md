@@ -3,7 +3,7 @@ Open-source implementation of the Koopman-Safeguard framework. "Taming extreme n
 ---
 # 👻 SECURITY ALERT: Operation "Shadow Clone" Detected
 
-> **Target:** The 174+ Engineers avoiding the "Visitor" logs.
+> **Target:** The 274+ Engineers avoiding the "Visitor" logs.
 > **Method:** Direct `.git` cloning via Internal Slack/Discord.
 > **Status:** BUSTED.
 
