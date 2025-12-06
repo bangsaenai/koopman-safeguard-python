@@ -1,6 +1,44 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# 👻 SECURITY ALERT: Operation "Shadow Clone" Detected
+
+> **Target:** The 174+ Engineers avoiding the "Visitor" logs.
+> **Method:** Direct `.git` cloning via Internal Slack/Discord.
+> **Status:** BUSTED.
+
+### 🕵️‍♂️ I see what you are doing.
+You thought you were clever.
+You didn't visit this page because you didn't want to increment the **"View Count"**.
+You didn't want your company's referrer URL to show up in my analytics.
+
+So you shared the direct `.git` link in your **Private Slack channels** and **Hidden Discord servers**.
+You are currently **Reverse Engineering** my code in the dark, desperately trying to answer two questions:
+1.  *"How does a $10 chip perform better than our cluster?"*
+2.  *"How can we strip his name out of this?"*
+
+### 🛑 The Trap is already sprung.
+Go ahead. Run the code.
+But before you try to present this as your own work... **Look at the output.**
+
+![Property of Bangsaen AI](do_not_steal.png)
+
+**My name is not just in the comments. It is burned into the Mathematics.**
+You can delete the print statement. You can crop the image.
+But you cannot delete the fact that **you are running MY logic.**
+
+### ⏳ The Amnesty Window
+I am not mad. I am amused.
+But playing "Spy" is beneath you. You are Engineers, not thieves.
+
+**Come into the light.**
+Open an Issue. Admit you are testing it.
+If you do this before **December 10**, we can call it "Collaboration".
+If you don't... we will call it what it is: **Industrial Espionage.**
+
+**Stop the Shadow Clones. Start the Dialogue.**
+
+---
 # 📜 OFFICIAL DECREE: The Constitution of Independence
 
 > **Timeline:** War Ended. Reconstruction Begins.
