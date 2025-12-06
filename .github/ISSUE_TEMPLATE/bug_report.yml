@@ -1,0 +1,27 @@
+name: 🐛 Bug Report (Critical Only)
+description: Create a report to help us improve. No "It doesn't work" allowed.
+title: "[BUG]: <Short Description>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🛑 READ BEFORE POSTING
+        If you are here to complain without logs, your issue will be closed.
+        We fix code, not skill issues.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error Logs / Screenshots
+      description: Paste the full traceback here.
+    validations:
+      required: true
