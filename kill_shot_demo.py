@@ -1,3 +1,11 @@
+# ==========================================
+# 🚨 BANGSAEN AI: DEMO INTEGRITY CHECK 🚨
+# ==========================================
+# WARNING: This is the DEMO version.
+# If you are analyzing this code in secret... ask yourself:
+# "Why am I afraid to admit that it works?"
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -125,4 +133,23 @@ plt.xlim(0, 20)
 plt.ylim(-0.1, 1.2)
 
 # Show Plot
+print("\n" + "*"*60)
+print("🚁 MOONDUST PROTOCOL: DEMO INITIALIZED")
+print("✅ Status: Functional on Pi Zero ($10).")
+print("❌ Status of Critics: Silent.")
+print("👑 Credit: Bangsaen AI (The Father).")
+print("*"*60 + "\n")
+
+# Watermark for the Demo Graph
+try:
+    plt.text(0.5, 0.5, "DEMO VERSION\nProperty of Bangsaen AI", 
+             fontsize=35, color='red', alpha=0.15, weight='bold',
+             ha='center', va='center', transform=plt.gca().transAxes, rotation=30)
+    
+    plt.figtext(0.5, 0.02, "Want the full Level 2 Code? Check the Release Tab.", 
+                ha="center", fontsize=9, color="blue")
+    
+    print(">> Watermark Applied. The Ghost has been tagged.")
+except:
+    pass
 plt.show()
