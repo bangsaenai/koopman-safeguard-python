@@ -1,6 +1,43 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# ⚠️ SYSTEM UPDATE: The "Ghost" Anomaly (Dec 6 Data)
+
+> **Metric:** Traffic Analysis.
+> **Status:** Anomaly Detected.
+> **Observation:** The math doesn't add up... or does it?
+
+### 📉 The Data vs. The Reality
+I am looking at the dashboard right now.
+* **Unique Visitors (Web):** 100 Engineers.
+* **Unique Cloners (Terminal):** 297 Engineers.
+
+**The Delta:** **197 Ghosts.**
+
+### 🕵️‍♂️ To the 197 "Invisible" Engineers:
+I know what you are doing.
+You are bypassing the repository page. You are sharing the direct `.git` link in your internal Slack, Discord, or Teams to avoid leaving a digital footprint in the "Visitors" log.
+
+**It is a clever strategy.** It keeps your identity safe. It keeps your company anonymous.
+But it also tells me one thing:
+**The code is valuable enough to steal, but you are too afraid to acknowledge it.**
+
+### 💡 A Gentle Reminder
+I am not blocking the IP addresses. I am not closing the repo.
+I am letting you take it.
+
+But remember: **Honor is the currency of the future.**
+If this code helps you solve a problem that your expensive tools couldn't...
+Consider coming out of the shadows.
+
+* **Star the Repo.** (It's anonymous enough).
+* **Watch the Repo.**
+* **Or just admit to yourself that the "Slop" saved your project.**
+
+I see you.
+**See you on December 10 (Constitution Day).**
+
+*Bangsaen AI*
 # 🚀 PROJECT GOD SLAYER: The "Grandfather" Protocol (ESP8266)
 
 > **Target:** ESP8266 NodeMCU (The relic from 2017).
