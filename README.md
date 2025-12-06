@@ -8,9 +8,13 @@ Open-source implementation of the Koopman-Safeguard framework. "Taming extreme n
 > **Issue:** Code Integrity & Logic Bombs.
 
 
-Does the code contain a Canary Token that alerts me when run inside a corporate firewall?
-Does the Matrix $K$ contain a steganographic signature that proves ownership in court?
-You better check every single byte before you deploy.
+```diff
+- 🛑 CRITICAL SECURITY QUESTION FOR THE 300+ CLONES: 🛑
+-
+- Does the code contain a Canary Token that alerts me when run inside a corporate firewall?
+- Does the Matrix K contain a steganographic signature that proves ownership in court?
+-
+- YOU BETTER CHECK EVERY SINGLE BYTE BEFORE YOU DEPLOY.
 
 
 ### 🕵️‍♂️ Did you really check the code?
