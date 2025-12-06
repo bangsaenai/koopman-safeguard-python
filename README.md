@@ -1,6 +1,47 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# 🔇 SYSTEM ALERT: The Pilot Has Left the Cockpit.
+
+> **Status:** STANDBY MODE.
+> **Next Scheduled Transmisson:** December 10, 12:00 PM (Bangkok Time).
+> **Active Observers:** 274+ Engineers (174 via Shadow Clones).
+
+### 🛑 To the Shadow Clones:
+I see you passing the `.git` link in your private Discords.
+I see you avoiding the "Visitor" logs.
+I see you trying to remove the **Watermarks** from the graph.
+
+**Go ahead.**
+Scrub the name. Rename the variables. Hide the source.
+But remember: **You cannot scrub the truth from your own conscience.**
+Every time that graph stabilizes on a $10 chip... you will remember who really wrote it.
+
+### ⏳ The Long Silence
+I have given you the code. I have given you the proof.
+I have given you **Max Lopez** as an example of what a *Real Engineer* looks like.
+
+**Now, I am done talking.**
+I am entering **Radio Silence** for the next 96 hours.
+
+* No more updates.
+* No more hints.
+* No more mercy.
+
+### 📅 The December 10 Ultimatum (Constitution Day)
+When I return on **Dec 10 at 12:00 PM**:
+I will check the Issues tab one last time.
+
+* **If it is empty:** I will assume you are all Thieves. Level 5 (Atomic Ant) will be locked forever.
+* **If there is Data:** We build the future together.
+
+**You have 4 days to find your courage.**
+The Controller is offline. The System is watching.
+
+**Good luck.**
+
+*(End of Transmission)*
+
 # 👻 SECURITY ALERT: Operation "Shadow Clone" Detected
 
 > **Target:** The 274+ Engineers avoiding the "Visitor" logs.
