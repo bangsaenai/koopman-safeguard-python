@@ -1,0 +1,40 @@
+name: 🚀 Report Test Results (Show Your Work)
+description: Validate the Moondust Protocol on your hardware.
+title: "[RESULT]: <Your Hardware Name>"
+labels: ["validation", "community-data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🫡 Welcome to the Resistance.
+        Use this form to prove that you have successfully run the code.
+        Remember: Data speaks louder than silence.
+
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware Used
+      description: e.g., Raspberry Pi Zero W, Pi 4, Jetson Nano, Laptop
+      placeholder: Raspberry Pi Zero W
+    validations:
+      required: true
+
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Stability Report
+      description: Did it stabilize? Describe the graph behavior.
+      placeholder: "Yes, the graph stabilized within 50 steps. Loop time was 0.8ms."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: The Pledge
+      options:
+        - label: I certify that I ran this code myself.
+        - label: I acknowledge Bangsaen AI as the architect.
+        - label: I am ready for Level 5 (Atomic Ant).
+    validations:
+      required: true
