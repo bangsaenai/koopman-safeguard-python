@@ -1,3 +1,15 @@
+# ==============================================================================
+# 🚁 WIG GLIDER SIMULATION ENVIRONMENT
+# ==============================================================================
+# Developed by: Bangsaen AI (The Pilot & The System)
+# Origin: https://github.com/bangsaenai/koopman-safeguard-python
+# License: MIT (Attribution Required)
+#
+# ⚠️ WARNING:
+# This code is part of the "Moondust Protocol".
+# If you use this simulation in your paper/project without citation,
+# you are violating the core principles of Open Science.
+# ==============================================================================
 import numpy as np
 import matplotlib
 import platform
