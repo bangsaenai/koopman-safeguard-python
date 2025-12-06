@@ -1,0 +1,17 @@
+# 🚧 LEVEL 5 INTEGRATION ROADMAP (CONFIDENTIAL)
+
+> **Priority:** HIGH
+> **Assignee:** BangsaenAI
+> **Status:** MIGRATION IN PROGRESS
+
+### 📋 To-Do List before Public Release:
+- [x] Optimize Matrix Multiplication for ESP32 (Xtensa LX6).
+- [x] Fix Floating Point precision error in Koopman core.
+- [ ] Remove hardcoded API keys from `config.py`.
+- [ ] **MERGE CODE FROM INTERNAL REPO:**
+      👉 https://github.com/bangsaenai/atomic-ant-esp32-internal
+      *(Remember to squash commits before merging to main! Do not leak this URL.)*
+
+### ⚠️ Notes:
+- The latency on the ESP8266 build is stable at 2ms.
+- Make sure to scrub the "Father's Day" comments from the final C++ build.
