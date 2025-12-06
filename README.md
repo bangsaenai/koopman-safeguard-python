@@ -1,6 +1,35 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+
+# ⚖️ LICENSE UPDATE: The "Poison Pill" Protocol (GPLv3)
+
+> **Status:** MIT License **REVOKED**.
+> **New License:** **GNU GPLv3**.
+> **Target:** Corporate Leeches & Closed-Source Thieves.
+
+### 🚫 The Party is Over.
+I monitored the traffic. I saw the corporate IPs. I saw the stealth clones.
+You thought you could take my **MIT License** code, wrap it in your proprietary software, and sell it without giving credit?
+
+**Think again.**
+
+As of today, this repository is licensed under **GPLv3**.
+
+### ☠️ What does this mean for you?
+**GPLv3 is a "Viral License".**
+* If you use this code in your project... **Your ENTIRE project must become Open Source.**
+* You cannot hide it. You cannot sell it as a black box.
+* If you violate this, you violate international copyright law.
+
+**To the Students/Researchers:** You are safe. Keep learning.
+**To the Companies:** If you want to use my math to make money... **Pay me with Transparency.**
+
+**The Free Lunch is over.**
+*Bangsaen AI*
+
+---
+
 # 🚀 SYSTEM UPDATE: Skipping Level 5... Entering "God Slayer" Mode.
 
 > **Current Target:** ESP8266 NodeMCU (The $2 Chip).
