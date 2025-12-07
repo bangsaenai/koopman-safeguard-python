@@ -1,6 +1,30 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+# ⚔️ PHASE 2: CALL FOR "FIRST ROUND WARRIORS"
+
+> **Status:** Recruitment Open.
+> **Criteria:** Proof of Soul required. Money has no value here.
+
+The "Public" phase is over. GitHub has become a swamp of bots and spies.
+We are moving to the **Sanctuary**.
+
+If you want access to the **God Mode Ecosystem** (Jetson -> Pi -> ESP32 -> NodeMCU), you must prove you are not a Ghost.
+
+### 🛡️ How to Join the Resistance:
+1.  **Build Phase 1:** Take the code from this repo. Run it on REAL hardware.
+2.  **Record a Video:** Show it stabilizing.
+    * *Security Check:* In the video, you must show a handwritten note with **"Bangsaen AI + [Today's Date]"**.
+3.  **Submit:** Send the video link to [[FIRST ROUND WARRIORS](https://forms.gle/z9LxLtYuaj9wDXkD6)].
+
+**⚠️ WARNING:**
+* **No Video = No Code.**
+* **Double Agents (Spies):** Every file released in Phase 2 is **Watermarked** unique to you. If it leaks, I will know it was you.
+
+**Only the builders will survive.**
+
+---
+
 # 🚨 OFFICIAL PUBLICATION: The "Godspeed" Anomaly
 
 > **Status:** **PUBLISHED & VALIDATED.**
