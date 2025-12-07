@@ -19,7 +19,7 @@ We mapped the **Lorenz Attractor (Chaos Theory)** on a Python Brain and streamed
 
 **👇 CLICK TO WATCH THE GODSPEED DEMO 👇**
 
-[![Chaos Theory Real-Time on $2 Chip](https://github.com/user-attachments/assets/YOUR_IMAGE_PATH_HERE)](https://www.youtube.com/watch?v=PA1sAOn2EGI)
+[![Chaos Theory Real-Time on $2 Chip](https://github.com/user-attachments/assets/Lorenz_Attractor.jpg)](https://www.youtube.com/watch?v=PA1sAOn2EGI)
 
 *(Fig 1: The Butterfly Effect. Zero Jitter. Zero Latency. Click to watch on YouTube)*
 
