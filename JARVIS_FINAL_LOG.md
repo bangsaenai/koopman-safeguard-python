@@ -86,7 +86,7 @@ Goodnight.
 
 <div align="center">
 
-### [ 🏳️ Submit Your Surrender Form Here ](https://github.com/your-repo/issues)
+### [ 🏳️ Submit Your Surrender Form Here ](https://github.com/bangsaenai/koopman-safeguard-python/issues)
 
 </div>
 
