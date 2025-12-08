@@ -1,6 +1,29 @@
 # koopman-safeguard-python
 Open-source implementation of the Koopman-Safeguard framework. "Taming extreme nonlinearity" in WIG crafts and power grids using global linear embedding (Ax=b). Includes Python vs. MATLAB comparison.
 ---
+-------------------------------------------------------------------------
+ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
+-------------------------------------------------------------------------
+
+1. NO WARRANTY FOR PHYSICAL HARM: 
+   This software controls high-speed kinetic hardware (WIG-Craft). 
+   By compiling/uploading this code, YOU ACKNOWLEDGE THAT YOU ARE SOLELY 
+   RESPONSIBLE for any physical injury, property damage, or legal consequences. 
+   Bangsaen AI Labs (The Father) provides the "Logic", NOT the "Action".
+
+2. REGULATORY COMPLIANCE: 
+   You agree to operate this system within the ISM Radio Bands and Civil 
+   Aviation Laws of your respective country.
+
+3. "AS IS" PROVISION:
+   This technology is labeled as "Experimental / Alien Engineering". 
+   It is NOT a consumer product. If it crashes, burns, or flies away, 
+   that is the nature of experimentation. 
+
+   DO NOT SUE US. YOU HAVE BEEN WARNED.
+-------------------------------------------------------------------------
+
+
 # 👽 COURSE SYLLABUS: ALIEN ENGINEERING 101
 ### *The Iron Man Mark 2 Capstone Project*
 
