@@ -19,7 +19,7 @@ And while you are shocked that we moved to Dual-Core ESP32 for flight control...
 
 Meet the **Iron Man Mask 3 (Project Heimdall)**:
 
-![Heimdall Core](./esp32_camera_module_new.jpg)
+![Heimdall Core](./s3.jpg)
 
 This is not just a camera.
 This is a **Visual Cortex** running on a $9 chip.
