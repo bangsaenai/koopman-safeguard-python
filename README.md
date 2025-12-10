@@ -20,7 +20,7 @@ ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
    It is NOT a consumer product. If it crashes, burns, or flies away, 
    that is the nature of experimentation. 
 
-   DO NOT SUE US. YOU HAVE BEEN # 
+   DO NOT SUE US. YOU HAVE BEEN INFORMED # 
 ---
 🚩 MISSION STATUS: VICTORY DECLARED
 ### *The 12-Day Sprint / The Gatekeeper Defeated*
