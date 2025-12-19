@@ -22,6 +22,47 @@ ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
 
    DO NOT SUE US. YOU HAVE BEEN INFORMED # 
 ---
+# 🛸 Moondust Protocol: The Koopman-Kalman Safeguard
+
+> **"Physics is free. Control is priceless. We don't wait for permission to innovate."**
+
+[![Authorea](https://img.shields.io/badge/Paper-Read%20Now-orange?style=for-the-badge&logo=authorea)](https://www.authorea.com/users/1010167/articles/1370260-the-koopman-kalman-safeguard-a-unified-framework-for-provably-safe-control-in-chaotic-regimes)
+[![DOI](https://img.shields.io/badge/DOI-10.22541%2Fau.176599398.84568584%2Fv1-blue?style=for-the-badge)](https://doi.org/10.22541/au.176599398.84568584/v1)
+[![Status](https://img.shields.io/badge/Status-ALIEN%20TECH-success?style=for-the-badge)]()
+
+---
+
+## 📜 The Theory Behind The Magic
+
+**Stop guessing parameters. Start computing dynamics.**
+
+We just dropped the theoretical backbone of Moondust Protocol. This isn't your average academic paper that collects dust for 6 months in peer review. **This is raw, provable math that makes cheap hardware fly like a beast.**
+
+📄 **Read the Full Preprint:** [The Koopman-Kalman Safeguard: A Unified Framework for Provably Safe Control in Chaotic Regimes](https://www.authorea.com/users/1010167/articles/1370260-the-koopman-kalman-safeguard-a-unified-framework-for-provably-safe-control-in-chaotic-regimes)
+
+### 💥 Why This Matters?
+Most drones rely on PID (Ancient Tech) or expensive Neural Networks (Resource Heavy). We chose the third path:
+- **Koopman Operator Theory:** Linearizing the nonlinear chaos.
+- **Kalman Filter:** Seeing the truth through the noise.
+- **Result:** **Provable Safety** on a $5 ESP32 chip. Running at **37°C**.
+
+> *"We didn't just build a flight controller; we built a math-accelerator that happens to fly."*
+
+---
+
+## 🚀 Why Preprint? (ไม่ง้อ Peer Review)
+Innovation moves at the speed of light, but traditional academia moves at the speed of a committee meeting. 
+We released this paper as a **Preprint** because the world needs safe, accessible AI control **NOW**.
+
+- **No Paywall.**
+- **No Waiting.**
+- **Pure Science.**
+
+Join the revolution. Flash the firmware. Read the math. **Break the sky.**
+
+---
+
+
 # 🌍 The Great Divide: Which Future Will You Choose?
 
 As we face the physical limits of silicon and the global energy crisis, humanity stands at a crossroads. 
