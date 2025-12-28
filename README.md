@@ -22,6 +22,28 @@ ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
 
    DO NOT SUE US. YOU HAVE BEEN INFORMED # 
 ---
+# ⛔ SECURITY ALERT: ACTIVE INTRUSION DETECTED
+
+### ⚠️ To the owners of the following machines:
+1. **DESKTOP-V3P00FI** (User: **ENG**) - *8 Attempts*
+2. **DESKTOP-M5CJ1UI** (User: **User**) - *10 Attempts*
+3. **DESKTOP-HLEEHHO** (User: **DELL**) - *9 Attempts*
+4. **MSI** (User: **M S i**) - *9 Attempts*
+
+**We know who you are.**
+
+Our telemetry has correlated your **Hostnames** with your **Public IP addresses** and **Geolocations**. We have identified that these repeated clone attempts are not educational, but constitute a **Hostile Reverse-Engineering Attempt**.
+
+### 🛑 STOP IMMEDIATELY.
+The "Trap" you triggered didn't just block the code; it **fingerprinted your devices**.
+
+We are currently holding your organization's identity in our logs. We have not released this information publicly... **yet**.
+
+**Do not attempt to clone this repository again.**
+If you want the technology, ask for a license. If you want to steal it, remember: **We see everything.**
+
+
+---
 > [!IMPORTANT]
 > **📡 Performance Telemetry & Latency Notice**
 >
