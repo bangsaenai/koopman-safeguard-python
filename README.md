@@ -22,6 +22,47 @@ ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
 
    DO NOT SUE US. YOU HAVE BEEN INFORMED # 
 ---
+# 📉 The "Impossible" Graph: Visual Proof of Zero Overshoot
+
+> *"To the moderators of r/ControlTheory who banned me for 'promoting slop': You can ban the user, but you cannot ban the Physics."*
+
+Every day, your subreddit is filled with the same question: **"Why does my PI controller overshoot?"**
+You tell them to tune $K_p$. You tell them to add a derivative term. You tell them to accept the laws of nature.
+
+**You are giving them the wrong advice.**
+
+Today, I am releasing the visual evidence that renders those debates obsolete.
+
+![Zero Overshoot Proof - KKS vs PID](kks_final_proof_cutoff.png)
+
+## 🔍 Decoding the Anomaly (For the Skeptics)
+
+Look closely at the graph above. This is **Hardware-in-the-Loop (HIL)** data, not a simulation.
+
+### 1. The "Future-Sight" Cut-off (Bottom Graph)
+Observe the **Green Control Signal**.
+* **PID (Red):** Reacts to the *current error*. It keeps heating until it passes the setpoint, then panic-brakes. Result: **Overshoot**.
+* **Bangsaen KKS (Green):** Look at the sharp drop to 0% at **Minute 25**.
+    * The temperature was not yet at 120°C.
+    * So why did it cut off?
+    * **Because the Koopman Operator predicted that the energy already injected was sufficient to coast exactly to the target.**
+
+### 2. The Result (Top Graph)
+* **PID:** Violates the constraint (Overheats).
+* **KKS:** Lands on 120°C with the gentleness of a feather. **Zero Overshoot. Zero Undershoot.**
+
+## 🛡️ This is Why We Patented It (US Pat. Pend. 63/959,937)
+
+We didn't patent "Control Theory". We patented **this specific behavior** on embedded systems.
+The ability to calculate that "Future Cut-off" point in < 1ms on a $5 chip is what separates a toy from an industrial asset.
+
+To the engineers still struggling with PID tuning: **Good luck.**
+But if you are ready to stop fighting physics and start using math... you know where to find us.
+
+> **Note:** Issues are closed. The graph speaks for itself.
+
+---
+
 # 🏛️ Level 3 UNLOCKED: The "Legal Manifold"
 
 > *"They said it was magic. They said it was impossible on an embedded chip. They asked for a peer review."*
