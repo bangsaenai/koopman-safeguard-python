@@ -35,7 +35,7 @@ ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
 
 ### 📉 The Result (See Chart Below)
 
-![COVID-19 Crash Analysis](images/covid_crisis_2020_btc_white.png)
+![COVID-19 Crash Analysis](covid_crisis_2020_btc_white.png)
 
 ### 🔬 Engineering Analysis
 
