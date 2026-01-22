@@ -22,6 +22,52 @@ ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
 
    DO NOT SUE US. YOU HAVE BEEN INFORMED 
 ---
+# 🛑 Forensic Analysis: The 2020 COVID-19 Crash
+### "When Control Theory Predicted What Deep Learning Missed."
+
+**Hypothesis:** Can we treat the Global Financial Market as a dynamical system and detect *Lyapunov Instability* before a structural collapse?
+
+**Experiment:** We applied **Koopman Operator Theory (Dynamic Mode Decomposition)** to historical Bitcoin price action during the onset of the COVID-19 crisis (Feb-Mar 2020).
+**Data Source:** OHLCV Data (Real Market Feed).
+**Method:** Sensorless reconstruction of phase space using Hankel Matrix + SVD.
+
+---
+
+### 📉 The Result (See Chart Below)
+
+![COVID-19 Crash Analysis](images/covid_crisis_2020_btc_white.png)
+
+### 🔬 Engineering Analysis
+
+1.  **The Setup (Index 0-30):**
+    * The system appeared stable in the time domain (Price).
+    * However, in the frequency domain (Eigenvalues), energy was already accumulating.
+
+2.  **The Divergence (Index 40-50):**
+    * **Price:** BTC was still trading strong at **$10,000**.
+    * **Physics:** The dominant Eigenvalues ($\lambda$) persistently crossed the Unit Circle ($|\lambda| > 1.0$).
+    * **Control Theory Interpretation:** The system lost its *Bounded Input Bounded Output (BIBO)* stability. The linear embedding suggested an exponential divergence (Energy Explosion).
+
+3.  **The Event (Index 60+):**
+    * Market structure collapsed. Price plummeted to ~$5,000 days later.
+    * **Conclusion:** The instability signal triggered **BEFORE** the price drop.
+
+---
+
+### 💡 Why this matters to r/ControlTheory?
+
+We often use **Koopman/DMD** for fluid dynamics or grid stability.
+This proves that **Financial Markets** obey the same laws of physics.
+
+* **Standard AI (LSTM/Transformer):** Tries to predict the *next token* (Price). It fails when distribution shifts (Black Swan).
+* **Our Approach (Koopman):** Measures the *stability of the manifold*. It doesn't care about the price; it cares about the **integrity of the structure**.
+
+**Status:** deployed in production as a "Circuit Breaker" for digital assets.
+**Math > Hype.**
+
+*Bangsaen AI Research Lab*
+---
+
 # 📉 Financial Stability Monitor: A Koopman Operator Approach
 
 > *"While the world asks AI to guess the price, we use Physics to measure the energy."*
