@@ -22,6 +22,22 @@ ADDITIONAL DISCLAIMER & SAFETY WARNING (BANGSAEN AI LABS)
 
    DO NOT SUE US. YOU HAVE BEEN INFORMED 
 ---
+
+<br>
+
+## 📉 Beyond Industrial Control: The Universal Physics
+Many argued that the *Zero Overshoot* performance was just a lucky parameter tuning.  
+We present **Evidence #002**: The **Exact Same Algorithm** (Koopman Operator on ESP32) applied to a completely different domain.
+
+### WTI Crude Oil Crash (April 2020)
+While standard financial models failed to predict negative prices, our physics-based engine detected the **energy divergence** (unstable eigenvalue) **5 days in advance**.
+
+![WTI Oil Crash Prediction](wti_oil_crash_2020_white.png)
+
+> **"Physics doesn't care if it's a motor or a market. Energy is Energy."**
+
+
+---
 # 🛑 Forensic Analysis: The 2020 COVID-19 Crash
 ### "When Control Theory Predicted What Deep Learning Missed."
 
