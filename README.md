@@ -34,7 +34,7 @@ The **XIV (Inverse VIX) Crash** on Feb 5, 2018, wasn't caused by a news event. I
 We ran the **same ESP32-compatible Koopman Engine** on the XIV data.
 It treated the liquidity crisis exactly like a "Mechanical Resonance" in a robot arm.
 
-![XIV Volmageddon Prediction](images/xiv_crash_prediction_white.png)
+![XIV Volmageddon Prediction](xiv_crash_prediction_white.png)
 
 ### The Verdict:
 1.  **The Event:** XIV lost 96% of its value in a single trading session.
